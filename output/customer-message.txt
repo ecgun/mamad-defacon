@@ -1,0 +1,53 @@
+=== Full message (email or chat) ===
+
+Hi [Name],
+
+Thank you for your order! You can pay with USDT using MoonPay. It takes about
+5-10 minutes and no crypto experience is needed. I've attached a short video
+that shows every step.
+
+Amount to receive: [___] USDT
+Network: BNB Smart Chain (BEP-20)
+Wallet address (please copy and paste it, don't type it):
+0x________________________________________
+
+How to pay:
+1. Go to moonpay.com or download the official MoonPay app, and sign up with
+   your email.
+2. First time only: verify your identity (a few personal details, a photo of
+   your ID and a quick selfie).
+3. Choose Tether (USDT) on the BNB Smart Chain (BEP-20) network and enter the
+   amount. Please make sure the "You get" amount is at least [___] USDT,
+   because MoonPay's fees come out of what you pay.
+4. When MoonPay asks for a wallet address, paste the address above.
+   Please don't create a new wallet at checkout.
+5. Pay with your card, Apple Pay, Google Pay or PayPal, and confirm.
+
+Before you confirm, please check:
+- The network is BNB Smart Chain (BEP-20)
+- The address starts with 0x, and the first and last characters match the
+  address above
+
+If your card is declined, add money to your MoonPay Balance first, then buy
+from your balance.
+
+Please use this address only for this payment. I may send you a new address
+next time.
+
+Once you've paid, please send me a screenshot of the confirmation so I can
+confirm your payment quickly.
+
+Thank you!
+[Your name]
+
+
+=== Short message (WhatsApp / Telegram) ===
+
+Hi! You can pay with USDT through MoonPay (moonpay.com):
+- Coin: USDT
+- Network: BNB Smart Chain (BEP-20)
+- Amount: at least [___] USDT ("You get" amount)
+- Address (copy & paste, don't type): 0x________________________________________
+
+The attached video shows every step. Please don't create a new wallet at
+checkout, just paste my address. Send me a screenshot once you've paid. Thanks!
