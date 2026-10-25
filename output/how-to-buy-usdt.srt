@@ -3,250 +3,234 @@
 Welcome!
 
 2
-00:00:02,319 --> 00:00:07,270
-In this short video, you'll learn how to buy USDT, step by step.
+00:00:02,319 --> 00:00:06,313
+In this short video, you'll learn how to buy USDT with MoonPay,
 
 3
-00:00:07,210 --> 00:00:08,755
-It only takes a few minutes,
+00:00:06,253 --> 00:00:10,197
+and send it straight to the wallet address we gave you.
 
 4
-00:00:08,695 --> 00:00:11,927
-and we'll show you how to stay safe along the way.
+00:00:10,137 --> 00:00:14,539
+It only takes a few minutes, and no crypto experience is needed.
 
 5
-00:00:13,047 --> 00:00:15,232
+00:00:15,659 --> 00:00:17,844
 First, what is USDT?
 
 6
-00:00:15,172 --> 00:00:19,282
+00:00:17,784 --> 00:00:21,894
 USDT, also known as Tether, is a stablecoin.
 
 7
-00:00:19,222 --> 00:00:22,648
+00:00:21,834 --> 00:00:25,260
 Its value is designed to stay close to one US dollar,
 
 8
-00:00:22,588 --> 00:00:26,336
+00:00:25,200 --> 00:00:28,948
 so its price doesn't jump up and down like Bitcoin.
 
 9
-00:00:26,276 --> 00:00:30,208
-That's why people use it to save, send money, and trade.
+00:00:28,888 --> 00:00:30,879
+That's why it's a simple, fast,
 
 10
-00:00:31,428 --> 00:00:34,466
-Before you start, make sure you have three things.
+00:00:30,819 --> 00:00:34,077
+and popular way to send payments worldwide.
 
 11
-00:00:34,406 --> 00:00:36,269
-A smartphone or a computer,
+00:00:35,297 --> 00:00:38,312
+Before you start, make sure you have four things.
 
 12
-00:00:36,209 --> 00:00:40,205
-a valid ID, such as a passport or a national ID card,
+00:00:38,252 --> 00:00:40,115
+A smartphone or a computer,
 
 13
-00:00:40,145 --> 00:00:44,102
-and a payment method, like a bank card or a bank account.
+00:00:40,055 --> 00:00:44,050
+a valid ID, such as a passport or a national ID card,
 
 14
-00:00:45,322 --> 00:00:45,958
-Step one:
+00:00:43,990 --> 00:00:48,620
+a payment method, like a bank card, Apple Pay, Google Pay, or PayPal,
 
 15
-00:00:45,898 --> 00:00:51,082
-choose a trusted exchange that is licensed and available in your country.
+00:00:48,560 --> 00:00:50,812
+and the wallet address we sent you.
 
 16
-00:00:51,022 --> 00:00:55,223
-Download its official app, or type the website address carefully,
+00:00:52,032 --> 00:00:54,733
+Step one: open your MoonPay account.
 
 17
-00:00:55,163 --> 00:00:57,520
-because fake copies do exist.
+00:00:54,673 --> 00:00:59,139
+Go to moonpay.com, or download the official MoonPay app.
 
 18
-00:00:57,460 --> 00:00:59,852
-Tap Sign up, enter your email address,
+00:00:59,079 --> 00:01:02,148
+Tap Sign up, and enter your email address.
 
 19
-00:00:59,792 --> 00:01:02,573
-and create a strong, unique password.
+00:01:02,088 --> 00:01:05,810
+Then enter the code that MoonPay sends to your email.
 
 20
-00:01:02,513 --> 00:01:05,741
-Then confirm with the code sent to your email.
+00:01:07,030 --> 00:01:09,596
+Step two: verify your identity.
 
 21
-00:01:06,961 --> 00:01:09,163
-Step two: protect your account.
+00:01:09,536 --> 00:01:11,661
+You only need to do this once.
 
 22
-00:01:09,103 --> 00:01:13,699
-Open Security settings and turn on two-factor authentication.
+00:01:11,601 --> 00:01:16,338
+Add a few personal details, like your name, date of birth, and address.
 
 23
-00:01:13,639 --> 00:01:15,293
-With an authenticator app,
+00:01:16,278 --> 00:01:19,766
+Then take a photo of your ID, and a quick selfie.
 
 24
-00:01:15,233 --> 00:01:19,236
-every login needs a fresh six-digit code from your phone.
+00:01:19,706 --> 00:01:22,682
+Approval usually takes just a few minutes.
 
 25
-00:01:19,176 --> 00:01:23,124
-So even if someone steals your password, they can't get in.
+00:01:23,902 --> 00:01:26,006
+Step three: choose what to buy.
 
 26
-00:01:24,344 --> 00:01:26,909
-Step three: verify your identity.
+00:01:25,946 --> 00:01:29,591
+Open the crypto list, and search for USDT.
 
 27
-00:01:26,849 --> 00:01:31,932
-This is called KYC, and most regulated exchanges require it.
+00:01:29,531 --> 00:01:32,079
+Now the most important part:
 
 28
-00:01:31,872 --> 00:01:33,741
-Take a clear photo of your ID,
+00:01:32,019 --> 00:01:38,126
+choose USDT on the BNB Smart Chain network, also called BEP-20.
 
 29
-00:01:33,681 --> 00:01:36,966
-then a quick selfie, to prove it's really you.
+00:01:38,066 --> 00:01:40,582
+Then enter the amount you want to spend.
 
 30
-00:01:36,906 --> 00:01:40,098
-Approval can take from a few minutes up to a day.
+00:01:40,522 --> 00:01:44,157
+MoonPay shows how much USDT you'll receive.
 
 31
-00:01:41,318 --> 00:01:43,799
-Step four: add money to your account.
+00:01:45,377 --> 00:01:47,858
+Step four: enter the wallet address.
 
 32
-00:01:43,739 --> 00:01:47,050
-Tap Deposit and choose your local currency.
+00:01:47,798 --> 00:01:49,520
+Copy the address we sent you,
 
 33
-00:01:46,990 --> 00:01:50,705
-Select a payment method, such as a bank transfer or a card,
+00:01:49,460 --> 00:01:52,435
+and paste it into the wallet address field.
 
 34
-00:01:50,645 --> 00:01:53,013
-enter the amount, and confirm.
-
-35
-00:01:52,953 --> 00:01:56,953
-Always check the fees and the final amount before you pay.
-
-36
-00:01:58,173 --> 00:02:00,557
-Step five: buy USDT.
-
-37
-00:02:00,497 --> 00:02:03,452
-Go to Buy, and search for USDT.
-
-38
-00:02:03,392 --> 00:02:05,539
-Enter how much you want to spend.
-
-39
-00:02:05,479 --> 00:02:09,659
-The app shows how much USDT you'll get, including fees.
-
-40
-00:02:09,599 --> 00:02:13,630
-Check the details, tap Buy USDT, and confirm.
-
-41
-00:02:13,570 --> 00:02:14,479
-Done!
-
-42
-00:02:14,419 --> 00:02:18,315
-Your USDT now appears in your wallet balance.
-
-43
-00:02:19,535 --> 00:02:24,168
-Step six is optional: sending USDT to another wallet.
-
-44
-00:02:24,108 --> 00:02:28,627
-Tap Withdraw, choose USDT, and paste the receiving address.
-
-45
-00:02:28,567 --> 00:02:30,481
+00:01:52,375 --> 00:01:54,139
 Never type it by hand.
 
+35
+00:01:54,079 --> 00:01:55,907
+Check that it starts with 0x,
+
+36
+00:01:55,847 --> 00:01:59,344
+and that the first and last few characters match.
+
+37
+00:01:59,284 --> 00:02:03,072
+If MoonPay offers to create a new wallet for you, don't.
+
+38
+00:02:03,012 --> 00:02:05,426
+Always use the address we gave you.
+
+39
+00:02:06,646 --> 00:02:08,292
+Step five: pay.
+
+40
+00:02:08,232 --> 00:02:11,996
+Choose your card, Apple Pay, Google Pay, or PayPal.
+
+41
+00:02:11,936 --> 00:02:14,266
+Review your order: the amount, the fees,
+
+42
+00:02:14,206 --> 00:02:16,609
+the network, and the wallet address.
+
+43
+00:02:16,549 --> 00:02:18,220
+Then tap Confirm.
+
+44
+00:02:18,160 --> 00:02:19,788
+If your card is declined,
+
+45
+00:02:19,728 --> 00:02:24,441
+add money to your MoonPay Balance first, and buy from your balance.
+
 46
-00:02:30,421 --> 00:02:35,678
-Now the most important part: choose the correct network,
-
-47
-00:02:35,618 --> 00:02:39,654
-for example TRC-20, ERC-20, or BEP-20.
-
-48
-00:02:39,594 --> 00:02:42,451
-It must match the network of the receiving wallet.
-
-49
-00:02:42,391 --> 00:02:45,434
-If it doesn't, your funds can be lost forever.
-
-50
-00:02:45,374 --> 00:02:50,349
-Tip: send a small test amount first, and once it arrives, send the rest.
-
-51
-00:02:51,569 --> 00:02:54,348
-Finally, some golden safety rules.
-
-52
-00:02:54,288 --> 00:02:57,327
-Never share your password, your two-factor codes,
-
-53
-00:02:57,267 --> 00:02:59,816
-or your recovery phrase with anyone.
-
-54
-00:02:59,756 --> 00:03:02,815
-Real support staff will never ask for them.
-
-55
-00:03:02,755 --> 00:03:06,303
-Ignore anyone who promises guaranteed profits.
-
-56
-00:03:06,243 --> 00:03:08,369
-It's almost always a scam.
-
-57
-00:03:08,309 --> 00:03:12,714
-And always double-check the address and the network before you confirm.
-
-58
-00:03:13,934 --> 00:03:15,412
-Let's recap.
-
-59
-00:03:15,352 --> 00:03:18,785
-Choose a trusted exchange, secure your account,
-
-60
-00:03:18,725 --> 00:03:23,972
-verify your identity, add funds, buy USDT, and withdraw carefully.
-
-61
-00:03:23,912 --> 00:03:25,045
+00:02:24,381 --> 00:02:25,515
 That's it!
 
-62
-00:03:24,985 --> 00:03:27,625
-You're ready to buy your first USDT.
+47
+00:02:25,455 --> 00:02:30,789
+Your USDT is sent straight to our address, usually within a few minutes.
 
-63
-00:03:27,565 --> 00:03:29,356
+48
+00:02:32,009 --> 00:02:34,415
+Finally, a few safety tips.
+
+49
+00:02:34,355 --> 00:02:37,547
+Only use the official MoonPay website or app.
+
+50
+00:02:37,487 --> 00:02:39,454
+Fake sites do exist.
+
+51
+00:02:39,394 --> 00:02:42,097
+Always use the latest address we sent you.
+
+52
+00:02:42,037 --> 00:02:44,846
+We may give you a new address for each payment.
+
+53
+00:02:44,786 --> 00:02:48,199
+Double-check the network and the address before you pay.
+
+54
+00:02:48,139 --> 00:02:51,594
+And never share your passwords or codes with anyone.
+
+55
+00:02:52,814 --> 00:02:54,292
+Let's recap.
+
+56
+00:02:54,232 --> 00:02:57,401
+Open your account, verify your identity,
+
+57
+00:02:57,341 --> 00:03:02,980
+choose USDT on BNB Smart Chain, paste our wallet address, and pay.
+
+58
+00:03:02,920 --> 00:03:04,490
 Thanks for watching!
+
+59
+00:03:04,430 --> 00:03:07,819
+If you have any questions, just send us a message.
 
