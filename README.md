@@ -8,7 +8,10 @@ soft background music and animated phone screens.
 
 | File | What it is |
 | --- | --- |
-| [`output/how-to-buy-usdt.mp4`](output/how-to-buy-usdt.mp4) | The video (1920×1080, 30 fps, H.264 + AAC) |
+| [`output/how-to-buy-usdt.mp4`](output/how-to-buy-usdt.mp4) | The video (1920×1080, 30 fps, H.264 + AAC, ~30 MB) |
+| [`output/how-to-buy-usdt-discord.mp4`](output/how-to-buy-usdt-discord.mp4) | Same video, 1080p, under 20 MB (for chat apps) |
+| [`output/how-to-buy-usdt-10mb.mp4`](output/how-to-buy-usdt-10mb.mp4) | Same video, 720p, under 10 MB (Discord's free upload limit) |
+| [`output/customer-message.txt`](output/customer-message.txt) | Ready-to-send payment message for customers (full and short) |
 | [`output/how-to-buy-usdt.srt`](output/how-to-buy-usdt.srt) | Subtitles, e.g. for YouTube (lets viewers auto-translate) |
 | [`output/thumbnail.png`](output/thumbnail.png) | Title frame, usable as a thumbnail |
 
