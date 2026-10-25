@@ -1,0 +1,12 @@
+{
+  "name": "how-to-buy-usdt-video",
+  "private": true,
+  "description": "English tutorial video for customers: how to buy USDT step by step",
+  "scripts": {
+    "build": "./build.sh",
+    "stills": "node tools/render.cjs --stills"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

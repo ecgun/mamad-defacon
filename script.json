@@ -1,0 +1,103 @@
+{
+  "title": "How to Buy USDT - Step-by-Step Guide",
+  "voice": "af_heart",
+  "speed": 0.9,
+  "scenes": [
+    {
+      "id": "intro",
+      "lead": 1.4,
+      "tail": 0.9,
+      "cues": [
+        { "text": "Welcome! In this short video, you'll learn how to buy USDT, step by step." },
+        { "text": "It only takes a few minutes, and we'll show you how to stay safe along the way." }
+      ]
+    },
+    {
+      "id": "what",
+      "cues": [
+        { "text": "First, what is USDT? USDT, also known as Tether, is a stablecoin." },
+        { "text": "Its value is designed to stay close to one US dollar, so its price doesn't jump up and down like Bitcoin." },
+        { "text": "That's why people use it to save, send money, and trade." }
+      ]
+    },
+    {
+      "id": "need",
+      "cues": [
+        { "text": "Before you start, make sure you have three things." },
+        { "text": "A smartphone or a computer,", "pause": 0.15 },
+        { "text": "a valid ID, such as a passport or a national ID card,", "pause": 0.15 },
+        { "text": "and a payment method, like a bank card or a bank account." }
+      ]
+    },
+    {
+      "id": "step1",
+      "cues": [
+        { "text": "Step one: choose a trusted exchange that is licensed and available in your country." },
+        { "text": "Download its official app, or type the website address carefully, because fake copies do exist." },
+        { "text": "Tap Sign up, enter your email address, and create a strong, unique password." },
+        { "text": "Then confirm with the code sent to your email." }
+      ]
+    },
+    {
+      "id": "step2",
+      "cues": [
+        { "text": "Step two: protect your account. Open Security settings and turn on two-factor authentication." },
+        { "text": "With an authenticator app, every login needs a fresh six-digit code from your phone." },
+        { "text": "So even if someone steals your password, they can't get in." }
+      ]
+    },
+    {
+      "id": "step3",
+      "cues": [
+        { "text": "Step three: verify your identity. This is called KYC, and most regulated exchanges require it." },
+        { "text": "Take a clear photo of your ID, then a quick selfie, to prove it's really you." },
+        { "text": "Approval can take from a few minutes up to a day." }
+      ]
+    },
+    {
+      "id": "step4",
+      "cues": [
+        { "text": "Step four: add money to your account. Tap Deposit and choose your local currency." },
+        { "text": "Select a payment method, such as a bank transfer or a card, enter the amount, and confirm." },
+        { "text": "Always check the fees and the final amount before you pay." }
+      ]
+    },
+    {
+      "id": "step5",
+      "cues": [
+        { "text": "Step five: buy USDT. Go to Buy, and search for USDT." },
+        { "text": "Enter how much you want to spend. The app shows how much USDT you'll get, including fees." },
+        { "text": "Check the details, tap Buy USDT, and confirm." },
+        { "text": "Done! Your USDT now appears in your wallet balance." }
+      ]
+    },
+    {
+      "id": "step6",
+      "cues": [
+        { "text": "Step six is optional: sending USDT to another wallet." },
+        { "text": "Tap Withdraw, choose USDT, and paste the receiving address. Never type it by hand." },
+        { "text": "Now the most important part: choose the correct network, for example TRC-20, ERC-20, or BEP-20." },
+        { "text": "It must match the network of the receiving wallet. If it doesn't, your funds can be lost forever." },
+        { "text": "Tip: send a small test amount first, and once it arrives, send the rest." }
+      ]
+    },
+    {
+      "id": "safety",
+      "cues": [
+        { "text": "Finally, some golden safety rules." },
+        { "text": "Never share your password, your two-factor codes, or your recovery phrase with anyone. Real support staff will never ask for them." },
+        { "text": "Ignore anyone who promises guaranteed profits. It's almost always a scam." },
+        { "text": "And always double-check the address and the network before you confirm." }
+      ]
+    },
+    {
+      "id": "recap",
+      "tail": 3.2,
+      "cues": [
+        { "text": "Let's recap." },
+        { "text": "Choose a trusted exchange, secure your account, verify your identity, add funds, buy USDT, and withdraw carefully." },
+        { "text": "That's it! You're ready to buy your first USDT. Thanks for watching!" }
+      ]
+    }
+  ]
+}
