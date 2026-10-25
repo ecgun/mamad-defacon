@@ -1,9 +1,10 @@
-# How to Buy USDT: customer tutorial video
+# How to Buy USDT with MoonPay: customer tutorial video
 
-A 3½-minute, 1080p English tutorial for customers. It explains what USDT is and
-walks through buying it step by step, with safety tips along the way. It has a
-voice-over, captions burned into the picture, soft background music and
-animated phone screens.
+A 3-minute, 1080p English tutorial for customers who are new to crypto. It
+shows how to buy USDT with [MoonPay](https://www.moonpay.com) and send it
+straight to the wallet address you gave them, on the **BNB Smart Chain
+(BEP-20)** network. It has a voice-over, captions burned into the picture,
+soft background music and animated phone screens.
 
 | File | What it is |
 | --- | --- |
@@ -12,11 +13,12 @@ animated phone screens.
 | [`output/thumbnail.png`](output/thumbnail.png) | Title frame, usable as a thumbnail |
 
 **راهنمای فارسی:** فایل ویدیو در پوشه‌ی `output` است (`how-to-buy-usdt.mp4`).
-زبان ویدیو انگلیسی است و زیرنویس انگلیسی روی تصویر دارد. فایل `srt` جداگانه هم
-هست که اگر ویدیو را در یوتیوب بگذارید، مشتری می‌تواند ترجمه‌ی خودکار زیرنویس را
-روشن کند. صفحه‌های اپلیکیشن در ویدیو نمونه هستند و به هیچ صرافی خاصی تعلق ندارند
-(اسم اپ «Your Exchange» است). برای تغییر متن گوینده، فایل `script.json` را ویرایش
-کنید و `./build.sh` را دوباره اجرا کنید.
+ویدیو به زبان انگلیسی است و به مشتری یاد می‌دهد با MoonPay، تتر (USDT) را روی شبکه‌ی
+BNB Smart Chain (BEP-20) بخرد و مستقیم به آدرس کیف پولی که شما داده‌اید بفرستد. زیرنویس
+انگلیسی روی تصویر هست. فایل `srt` جداگانه هم هست که اگر ویدیو را در یوتیوب بگذارید،
+مشتری می‌تواند ترجمه‌ی خودکار زیرنویس را روشن کند. صفحه‌های اپ در ویدیو ساده‌شده‌اند و
+ظاهر واقعی MoonPay ممکن است کمی فرق کند. برای تغییر متن گوینده، فایل `script.json` را
+ویرایش کنید و `./build.sh` را دوباره اجرا کنید.
 
 ## Chapters
 
@@ -24,33 +26,34 @@ Paste these into a YouTube description to get chapters:
 
 ```
 0:00 Introduction
-0:12 What is USDT?
-0:30 What you'll need
-0:44 Step 1: Create an account
-1:06 Step 2: Secure your account (2FA)
-1:23 Step 3: Verify your identity (KYC)
-1:40 Step 4: Add funds
-1:57 Step 5: Buy USDT
-2:18 Step 6: Send to another wallet (optional)
-2:50 Golden safety rules
-3:13 Recap
+0:14 What is USDT?
+0:34 What you'll need
+0:51 Step 1: Open your MoonPay account
+1:06 Step 2: Verify your identity
+1:23 Step 3: Choose USDT on BNB Smart Chain (BEP-20)
+1:44 Step 4: Paste our wallet address
+2:05 Step 5: Pay and confirm
+2:31 Safety tips
+2:52 Recap
 ```
 
 ## What the video covers
 
 1. **What USDT is**: a stablecoin designed to stay close to 1 US dollar
-2. **What you need**: a phone or computer, a valid ID and a payment method
-3. **Create an account** on a trusted, licensed exchange, using only the official app or website
-4. **Secure the account** with two-factor authentication (2FA)
-5. **Verify identity (KYC)** with a photo of the ID and a selfie
-6. **Add funds** by bank transfer or card, checking fees and the final amount
-7. **Buy USDT**, reviewing the amount received and the fee before confirming
-8. **Send to another wallet (optional)**: paste the address, pick the matching network (TRC-20 / ERC-20 / BEP-20) and send a small test amount first
-9. **Safety rules**: never share passwords, 2FA codes or recovery phrases; "guaranteed profit" is a scam; double-check address and network
+2. **What you need**: a phone or computer, a valid ID, a payment method and the wallet address you sent
+3. **Open a MoonPay account** on moonpay.com or the official app, with email and a code
+4. **Verify identity** (first time only): personal details, a photo of the ID and a selfie
+5. **Choose USDT on BNB Smart Chain (BEP-20)**, then enter the amount
+6. **Paste the wallet address**: never type it, check `0x` and the first and last characters, and don't create a new wallet at checkout
+7. **Pay and confirm** with a card, Apple Pay, Google Pay or PayPal; if the card is declined, top up the MoonPay Balance first
+8. **Safety tips**: official site or app only, always use the latest address, double-check the network and address, never share codes
 
-The app screens are generic examples (a made-up app called "Your Exchange") and
-do not belong to any real exchange. The amounts are examples too. The video ends
-with a short disclaimer: educational only, not financial advice.
+The video is not affiliated with MoonPay. The app screens are simplified
+illustrations, and the amounts and fees are examples. The video says this in
+its closing frame.
+
+The previous version of the video showed a generic exchange (account, 2FA, KYC,
+deposit, buy, withdraw). It is in the git history at commit `280d114`.
 
 ## Changing the video
 
@@ -83,7 +86,7 @@ curl -L -o models/voices-v1.0.bin  https://github.com/thewh1teagle/kokoro-onnx/r
 
 ```bash
 ./build.sh                                  # full video, takes about 15 minutes
-node tools/render.cjs --stills 9,60,130     # quick PNG previews of single moments
+node tools/render.cjs --stills 12,60,130    # quick PNG previews of single moments
 ```
 
 The build works in three stages:

@@ -27,6 +27,7 @@ PRONUNCIATION = [
     (r"\bBEP-20\b", "B E P 20"),
     (r"\bKYC\b", "K Y C"),
     (r"\bID\b", "I D"),
+    (r"\bmoonpay\.com\b", "moonpay dot com"),
 ]
 
 DEFAULT_LEAD = 0.8      # silence at the start of a scene, while titles animate in

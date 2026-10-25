@@ -1,7 +1,7 @@
 {
   "name": "how-to-buy-usdt-video",
   "private": true,
-  "description": "English tutorial video for customers: how to buy USDT step by step",
+  "description": "English tutorial video for customers: how to buy USDT with MoonPay, step by step",
   "scripts": {
     "build": "./build.sh",
     "stills": "node tools/render.cjs --stills"

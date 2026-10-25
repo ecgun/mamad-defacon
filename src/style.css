@@ -338,3 +338,26 @@ h2 { font-size: 72px; line-height: 1.06; font-weight: 800; letter-spacing: -2px;
 .recap-steps { top: 360px; }
 .rstep { height: 290px; }
 .final { top: 712px; }
+
+/* ---------- MoonPay-style app theme ---------- */
+
+:root { --app-primary: #7b3fe4; --app-tint: #f1eafd; --app-ring: rgba(123, 63, 228, 0.16); }
+.field.on, .row.on, .row.sel { border-color: var(--app-primary); box-shadow: 0 0 0 4px var(--app-ring); }
+.field .end, .pill, .c-gen { background: var(--app-tint); color: var(--app-primary); }
+.pill.red { background: #ffe6e9; color: #d6293e; }
+.big-ok { box-shadow: 0 0 0 16px var(--app-ring); }
+.mp { color: #b794ff; font-weight: 700; }
+.urlbar { flex: none; margin: 4px 18px 0; height: 42px; border-radius: 12px; background: #e6eaf1; display: flex; align-items: center; justify-content: center; gap: 8px; font-size: 17px; font-weight: 600; color: #334155; }
+.urlbar.on { background: #e8f8ee; box-shadow: 0 0 0 3px #22c55e; color: #14532d; }
+.wordmark { font-size: 46px; font-weight: 800; letter-spacing: -1.5px; color: var(--app-primary); }
+.end.pick { width: 178px; padding: 0; font-size: 15px; }
+.end.pick small { font-size: 11px; font-weight: 600; opacity: 0.8; }
+.addr { font-family: "JetBrains Mono", monospace; font-size: 17px; font-weight: 600; letter-spacing: 0.3px; }
+.mark { border-radius: 4px; padding: 0 1px; }
+.mark.on { background: #ffe58a; }
+.strike.on { text-decoration: line-through; color: #d6293e; }
+.needs.four { gap: 28px; }
+.needs.four .need { width: 380px; padding: 46px 28px; }
+.needs.four .need .t { font-size: 34px; }
+.pill { white-space: nowrap; }
+.kv { gap: 12px; }

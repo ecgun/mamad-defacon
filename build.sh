@@ -13,6 +13,6 @@ mkdir -p output
 ffmpeg -y -loglevel error -i build/video.mp4 -i build/audio.wav -map 0:v -map 1:a \
   -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart output/how-to-buy-usdt.mp4
 
-node tools/render.cjs --stills 9 >/dev/null
-cp build/stills/t0009.00.png output/thumbnail.png
+node tools/render.cjs --stills 12 >/dev/null
+cp build/stills/t0012.00.png output/thumbnail.png
 echo "done: output/how-to-buy-usdt.mp4"
